@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Cyril</h1>
 <h3 align="center">I am a French energy engineer keen on data science and environmental issues</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrilcrgn&label=Profile%20views&color=0e75b6&style=flat" alt="cyrilcrgn" /> </p>
+- I am currently working at **ENGIE - Spain**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyrilcrgn" alt="cyrilcrgn" /></a> </p>
+- I worked at **EDF - SEI Corsica**
 
-- 🔭 I’m currently working at **ENGIE - Spain**
+- How to reach me **cyril.courgneau@etu.minesparis.psl.eu**
 
-- 🌱 I worked at **EDF - SEI Corsica**
-
-- 📫 How to reach me **cyril.courgneau@etu.minesparis.psl.eu**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/cyril-courgneau/](https://www.linkedin.com/in/cyril-courgneau/)
+- Know about my experiences [https://www.linkedin.com/in/cyril-courgneau/](https://www.linkedin.com/in/cyril-courgneau/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
