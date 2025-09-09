@@ -7,7 +7,7 @@
 🔹 Previous experience at **EDF – SEI Corsica**  
 🔹 Passionate about applying **data science, quantitative modeling, and machine learning** to energy markets and environmental challenges  
 
-📩 Reach me at **cyril.courgneau@etu.minesparis.psl.eu**  
+📩 Reach me at **cyril.courgneau@etu.minesparis.psl.eu** or **cyril.courgneau@engie.com**
 🔗 Learn more about my background: [LinkedIn – Cyril Courgneau](https://www.linkedin.com/in/cyril-courgneau/)  
 
 ---
